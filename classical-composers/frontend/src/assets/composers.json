@@ -1,0 +1,602 @@
+[
+	{
+		"id": 1001,
+		"name": "Wolfgang Amadeus Mozart",
+		"img": "https://www.listchallenges.com/f/items/952cf124-b9da-46e9-8ccd-53c4065d10e2.jpg",
+		"dateOfBirth": "1756-01-27"
+	},
+	{
+		"id": 1002,
+		"name": "Ludwig Van Beethoven",
+		"img": "https://www.listchallenges.com/f/items/031f6d2b-3ab9-485b-8a7f-c128fd2052f2.jpg",
+		"dateOfBirth": "1770-12-16"
+	},
+	{
+		"id": 1003,
+		"name": "Johann Sebastian Bach",
+		"img": "https://www.listchallenges.com/f/items/aad5e6c0-eef6-43dc-aac9-7d77a1a6f739.jpg",
+		"dateOfBirth": "1685-03-31"
+	},
+	{
+		"id": 1004,
+		"name": "Peter Ilyich Tchaikovsky",
+		"img": "https://www.listchallenges.com/f/items-dl/456b95bc-93db-4edc-8f76-3f083069439e.jpg",
+		"dateOfBirth": "1840-05-07"
+	},
+	{
+		"id": 1005,
+		"name": "Frederic Chopin",
+		"img": "https://www.listchallenges.com/f/items-dl/f75c30ad-9508-4012-ac9b-e44c9e0f6e01.jpg",
+		"dateOfBirth": "1810-03-01"
+	},
+	{
+		"id": 1006,
+		"name": "Johannes Brahms",
+		"img": "https://www.listchallenges.com/f/items/97070654-aeb6-471d-95eb-b4ad1d6cf2ed.jpg",
+		"dateOfBirth": "1833-05-07"
+	},
+	{
+		"id": 1007,
+		"name": "Richard Wagner",
+		"img": "https://www.listchallenges.com/f/items/69a68293-6dba-44e7-97b8-68d148b2f90a.jpg",
+		"dateOfBirth": "1813-05-22"
+	},
+	{
+		"id": 1008,
+		"name": "Claude Debussy",
+		"img": "https://www.listchallenges.com/f/items/2fdd68ab-81a1-4464-bd7d-ae128b89d2f8.jpg",
+		"dateOfBirth": "1862-08-22"
+	},
+	{
+		"id": 1009,
+		"name": "Joseph Haydn",
+		"img": "https://www.listchallenges.com/f/items/938c6e4e-23dc-43d5-965c-c378ca179a2f.jpg",
+		"dateOfBirth": "1732-03-31"
+	},
+	{
+		"id": 1010,
+		"name": "George Frideric Handel",
+		"img": "https://www.listchallenges.com/f/items/09591327-a9ca-4ba5-80e1-80ba706ee841.jpg",
+		"dateOfBirth": "1685-02-23"
+	},
+	{
+		"id": 1011,
+		"name": "Antonio Vivaldi",
+		"img": "https://www.listchallenges.com/f/items/f3d46a9f-af16-4685-a636-324df743b57b.jpg",
+		"dateOfBirth": "1678-03-04"
+	},
+	{
+		"id": 1012,
+		"name": "Sergei Prokofiev",
+		"img": "https://www.listchallenges.com/f/items/89434c09-9c36-4275-9465-a2ee7c296243.jpg",
+		"dateOfBirth": "1891-04-23"
+	},
+	{
+		"id": 1013,
+		"name": "Giuseppe Verdi",
+		"img": "https://www.listchallenges.com/f/items/b667b91f-5bc3-4df9-8639-6a80b62238c0.jpg",
+		"dateOfBirth": "1813-10-10"
+	},
+	{
+		"id": 1014,
+		"name": "Franz Liszt",
+		"img": "https://www.listchallenges.com/f/items/5d8be0a1-91f6-4a65-bc71-2c75ce72015c.jpg",
+		"dateOfBirth": "1811-10-22"
+	},
+	{
+		"id": 1015,
+		"name": "Dmitri Shostakovich",
+		"img": "https://www.listchallenges.com/f/items/e65e734a-0766-4656-ac9f-eb1a19a36069.jpg",
+		"dateOfBirth": "1906-09-25"
+	},
+	{
+		"id": 1016,
+		"name": "Franz Schubert",
+		"img": "https://www.listchallenges.com/f/items-dl/f2c0562f-4e0c-4b2b-bdbd-2b18a32c0c37.jpg",
+		"dateOfBirth": "1797-01-31"
+	},
+	{
+		"id": 1017,
+		"name": "Felix Mendelssohn",
+		"img": "https://www.listchallenges.com/f/items/83994d6c-e8d8-4c69-8101-b02bc495abcd.jpg",
+		"dateOfBirth": "1809-02-03"
+	},
+	{
+		"id": 1018,
+		"name": "Gustav Mahler",
+		"img": "https://www.listchallenges.com/f/items/c2536e01-72a8-4442-9172-014f44873acf.jpg",
+		"dateOfBirth": "1860-07-07"
+	},
+	{
+		"id": 1019,
+		"name": "Giacomo Puccini",
+		"img": "https://www.listchallenges.com/f/items/470c59dd-b323-463a-8add-39f41c99586b.jpg",
+		"dateOfBirth": "1858-12-22"
+	},
+	{
+		"id": 1020,
+		"name": "Igor Stravinsky",
+		"img": "https://www.listchallenges.com/f/items/9874650f-73f6-484b-a030-acba9617c662.jpg",
+		"dateOfBirth": "1882-06-17"
+	},
+	{
+		"id": 1021,
+		"name": "Edvard Grieg",
+		"img": "https://www.listchallenges.com/f/items/56fbe85e-1d17-4f75-baa3-b9b1b0bba310.jpg",
+		"dateOfBirth": "1843-06-15"
+	},
+	{
+		"id": 1022,
+		"name": "Robert Schumann",
+		"img": "https://www.listchallenges.com/f/items/d9ecfa82-523f-45db-9030-264aac86aaaf.jpg",
+		"dateOfBirth": "1810-06-08"
+	},
+	{
+		"id": 1023,
+		"name": "Antonín Dvořák",
+		"img": "https://www.listchallenges.com/f/items-dl/505d0da0-b360-4dcc-af95-dd901e718827.jpg",
+		"dateOfBirth": "1841-09-08"
+	},
+	{
+		"id": 1024,
+		"name": "Richard Strauss",
+		"img": "https://www.listchallenges.com/f/items/5ee0d06d-79bd-4ed0-aa0a-63c237fb1e8a.jpg",
+		"dateOfBirth": "1864-06-11"
+	},
+	{
+		"id": 1025,
+		"name": "Gioacchino Rossini",
+		"img": "https://www.listchallenges.com/f/items/4854ba14-184b-4897-af61-c91cd9284e7c.jpg",
+		"dateOfBirth": "1792-02-29"
+	},
+	{
+		"id": 1026,
+		"name": "Modest Mussorgsky",
+		"img": "https://www.listchallenges.com/f/items/928140f6-f9a2-4bfc-ad37-05df3570d762.jpg",
+		"dateOfBirth": "1839-03-21"
+	},
+	{
+		"id": 1027,
+		"name": "Béla Bartók",
+		"img": "https://www.listchallenges.com/f/items-dl/0841db0b-a11d-46e0-955c-c4ae75792847.jpg",
+		"dateOfBirth": "1881-03-25"
+	},
+	{
+		"id": 1028,
+		"name": "Edward Elgar",
+		"img": "https://www.listchallenges.com/f/items/ec007a89-ee56-4039-87f1-6fb528a4ae27.jpg",
+		"dateOfBirth": "1857-06-02"
+	},
+	{
+		"id": 1029,
+		"name": "Sergei Rachmaninoff",
+		"img": "https://www.listchallenges.com/f/items-dl/a491d66f-5eda-4843-81e7-3e2379e24503.jpg",
+		"dateOfBirth": "1873-04-01"
+	},
+	{
+		"id": 1030,
+		"name": "Nikolai Rimsky-Korsakov",
+		"img": "https://www.listchallenges.com/f/items-dl/771ce64b-62c6-41b4-9e7c-3966cb8a2377.jpg",
+		"dateOfBirth": "1844-03-18"
+	},
+	{
+		"id": 1031,
+		"name": "Gara Garayev",
+		"img": "https://www.listchallenges.com/f/items/6c3421f7-a1bf-4cf3-85b5-b01537b328ea.jpg",
+		"dateOfBirth": "1918-03-05"
+	},
+	{
+		"id": 1032,
+		"name": "Hector Berlioz",
+		"img": "https://www.listchallenges.com/f/items/d6c62066-a63b-4040-97d8-359c67cf69c5.jpg",
+		"dateOfBirth": "1803-12-11"
+	},
+	{
+		"id": 1033,
+		"name": "Giovanni Pierluigi Da Palestrina",
+		"img": "https://www.listchallenges.com/f/items/f62e19fa-8375-4260-b353-f7efefbd9621.jpg",
+		"dateOfBirth": "1525-c."
+	},
+	{
+		"id": 1034,
+		"name": "Anton Bruckner",
+		"img": "https://www.listchallenges.com/f/items/ae4f1a9b-1c2f-46a7-931c-1badbd9a829c.jpg",
+		"dateOfBirth": "1824-09-04"
+	},
+	{
+		"id": 1035,
+		"name": "Aaron Copland",
+		"img": "https://www.listchallenges.com/f/items/db9914bc-7df8-432a-bca2-ac54a0a88e0c.jpg",
+		"dateOfBirth": "1900-11-14"
+	},
+	{
+		"id": 1036,
+		"name": "Bedřich Smetana",
+		"img": "https://www.listchallenges.com/f/items-dl/97289e78-a322-4c3a-9edd-cb478d61b169.jpg",
+		"dateOfBirth": "1824-03-02"
+	},
+	{
+		"id": 1037,
+		"name": "Mikhail Glinka",
+		"img": "https://www.listchallenges.com/f/items/50971c73-3920-49a0-aa5c-1b4ed7afa071.jpg",
+		"dateOfBirth": "1804-06-01"
+	},
+	{
+		"id": 1038,
+		"name": "Alexander Glazunov",
+		"img": "https://www.listchallenges.com/f/items/6e065dd5-5a9c-49f8-a023-6ec37f608a40.jpg",
+		"dateOfBirth": "1865-08-10"
+	},
+	{
+		"id": 1039,
+		"name": "Claudio Monteverdi",
+		"img": "https://www.listchallenges.com/f/items/989e1622-762e-4fa0-8cc7-faf7bd13fc79.jpg",
+		"dateOfBirth": "1567-05-15"
+	},
+	{
+		"id": 1040,
+		"name": "Jean Sibelius",
+		"img": "https://www.listchallenges.com/f/items/3bd0c274-1e71-4c9b-a4bc-8c7b2745511e.jpg",
+		"dateOfBirth": "1865-12-08"
+	},
+	{
+		"id": 1041,
+		"name": "Carlo Gesualdo",
+		"img": "https://www.listchallenges.com/f/items/c34e0565-b76e-4a57-a7e4-6563a0cb9566.jpg",
+		"dateOfBirth": "1566-c."
+	},
+	{
+		"id": 1042,
+		"name": "Christoph Willibald Gluck",
+		"img": "https://www.listchallenges.com/f/items/821c4267-ad4d-4d16-b864-da08beea834b.jpg",
+		"dateOfBirth": "1714-07-02"
+	},
+	{
+		"id": 1043,
+		"name": "Arnold Schoenberg",
+		"img": "https://www.listchallenges.com/f/items/9d116ac4-44c0-44c2-a972-b7da88bc9eb2.jpg",
+		"dateOfBirth": "1874-09-13"
+	},
+	{
+		"id": 1044,
+		"name": "Erik Satie",
+		"img": "https://www.listchallenges.com/f/items/3cfffcb2-103d-450c-8d89-b06c49abcecb.jpg",
+		"dateOfBirth": "1866-05-17"
+	},
+	{
+		"id": 1045,
+		"name": "Samuel Barber",
+		"img": "https://www.listchallenges.com/f/items/81a535ba-8c5f-4256-9e1f-68fa3390aa66.jpg",
+		"dateOfBirth": "1910-03-09"
+	},
+	{
+		"id": 1046,
+		"name": "Gustav Holst",
+		"img": "https://www.listchallenges.com/f/items/c0f3adbd-ed1f-4589-bb7c-611b7212ca16.jpg",
+		"dateOfBirth": "1874-09-21"
+	},
+	{
+		"id": 1047,
+		"name": "Charles Ives",
+		"img": "https://www.listchallenges.com/f/items/1e54bfc7-588d-428a-b073-82e9eb2ab02e.jpg",
+		"dateOfBirth": "1874-10-20"
+	},
+	{
+		"id": 1048,
+		"name": "Camille Saint-Saëns",
+		"img": "https://www.listchallenges.com/f/items/d5d12389-78b3-4f23-8622-37ef49ed6405.jpg",
+		"dateOfBirth": "1835-10-09"
+	},
+	{
+		"id": 1049,
+		"name": "Henry Purcell",
+		"img": "https://www.listchallenges.com/f/items/e4eaf0be-c610-42f2-975b-8755db16bbf7.jpg",
+		"dateOfBirth": "1659-09-10"
+	},
+	{
+		"id": 1050,
+		"name": "Ralph Vaughan Williams",
+		"img": "https://www.listchallenges.com/f/items/76f47e24-5d52-4c13-8dca-555575c9f840.jpg",
+		"dateOfBirth": "1872-10-12"
+	},
+	{
+		"id": 1051,
+		"name": "Johann Strauss II",
+		"img": "https://www.listchallenges.com/f/items/07de0191-b9ce-4844-8c20-95cb81a700f0.jpg",
+		"dateOfBirth": "1825-10-25"
+	},
+	{
+		"id": 1052,
+		"name": "George Gershwin",
+		"img": "https://www.listchallenges.com/f/items/a62e8f54-f846-43a8-8799-d429cf5035b4.jpg",
+		"dateOfBirth": "1898-09-26"
+	},
+	{
+		"id": 1053,
+		"name": "Georges Bizet",
+		"img": "https://www.listchallenges.com/f/items/575a98d3-f82d-4c41-bcff-be6666c1aa21.jpg",
+		"dateOfBirth": "1838-10-25"
+	},
+	{
+		"id": 1054,
+		"name": "Josquin Des Prez",
+		"img": "https://www.listchallenges.com/f/items-dl/35bca288-a565-4048-8ea1-98c441ec1056.jpg",
+		"dateOfBirth": "1450-01-01"
+	},
+	{
+		"id": 1055,
+		"name": "Carl Maria Von Weber",
+		"img": "https://www.listchallenges.com/f/items/3084a873-ccb0-4053-9ac5-a319a7645ce4.jpg",
+		"dateOfBirth": "1786-11-18"
+	},
+	{
+		"id": 1056,
+		"name": "Jean-Phillippe Rameau",
+		"img": "https://www.listchallenges.com/f/items/25f3992c-f462-41f9-baee-f8f3f5874ff7.jpg",
+		"dateOfBirth": "1683-09-25"
+	},
+	{
+		"id": 1057,
+		"name": "Jean-Baptiste Lully",
+		"img": "https://www.listchallenges.com/f/items/a66d6024-d16a-400e-959b-b379b90133bb.jpg",
+		"dateOfBirth": "1632-11-28"
+	},
+	{
+		"id": 1058,
+		"name": "Gabriel Fauré",
+		"img": "https://www.listchallenges.com/f/items/c5f03c94-2fb9-4cf2-b311-a59916c6aec2.jpg",
+		"dateOfBirth": "1845-05-12"
+	},
+	{
+		"id": 1059,
+		"name": "Paul Hindemith",
+		"img": "https://www.listchallenges.com/f/items-dl/64891857-4f56-4957-9cd4-1438cd186843.jpg",
+		"dateOfBirth": "1895-11-16"
+	},
+	{
+		"id": 1060,
+		"name": "Olivier Messiaen",
+		"img": "https://www.listchallenges.com/f/items/9cde4991-6734-4033-8964-e00db862b39d.jpg",
+		"dateOfBirth": "1908-12-10"
+	},
+	{
+		"id": 1061,
+		"name": "Maurice Ravel",
+		"img": "https://www.listchallenges.com/f/items/8619bfd6-df20-4502-af2a-4d5b333ea737.jpg",
+		"dateOfBirth": "1875-03-07"
+	},
+	{
+		"id": 1062,
+		"name": "François Couperin",
+		"img": "https://www.listchallenges.com/f/items/a10eea96-faf6-4632-91ab-e49441405978.jpg",
+		"dateOfBirth": "1668-11-10"
+	},
+	{
+		"id": 1063,
+		"name": "William Byrd",
+		"img": "https://www.listchallenges.com/f/items/8c87b5ec-de0c-4cad-91e6-b31fc8859024.jpg",
+		"dateOfBirth": "1540-01-01"
+	},
+	{
+		"id": 1064,
+		"name": "Benjamin Britten",
+		"img": "https://www.listchallenges.com/f/items/113d26a1-c8ec-49d3-8e63-843db43ca7e7.jpg",
+		"dateOfBirth": "1913-11-22"
+	},
+	{
+		"id": 1065,
+		"name": "Hildegard Von Bingen",
+		"img": "https://www.listchallenges.com/f/items/25184a53-fda9-442c-b83a-b5b63894ed4a.jpg",
+		"dateOfBirth": "1098-09-16"
+	},
+	{
+		"id": 1066,
+		"name": "Manuel De Falla",
+		"img": "https://www.listchallenges.com/f/items/d56f7117-747c-49d2-8320-17c113219e52.jpg",
+		"dateOfBirth": "1876-11-23"
+	},
+	{
+		"id": 1067,
+		"name": "Tomás Luis De Victoria",
+		"img": "https://www.listchallenges.com/f/items/ef83d1d7-80fd-412c-8a08-468f57a540e7.jpg",
+		"dateOfBirth": "1548-03-15"
+	},
+	{
+		"id": 1068,
+		"name": "Giacomo Meyerbeer",
+		"img": "https://www.listchallenges.com/f/items/cbae5aad-ad70-4da5-b8d0-9a897ebdf3b3.jpg",
+		"dateOfBirth": "1791-09-05"
+	},
+	{
+		"id": 1069,
+		"name": "Orlando Gibbons",
+		"img": "https://www.listchallenges.com/f/items/5bff4c54-06cf-47f7-8fe2-d24dc7527c8c.jpg",
+		"dateOfBirth": "1583-12-25"
+	},
+	{
+		"id": 1070,
+		"name": "Darius Milhaud",
+		"img": "https://www.listchallenges.com/f/items/97f5e4e2-e9bd-4db7-8702-7a4407b54e74.jpg",
+		"dateOfBirth": "1892-09-04"
+	},
+	{
+		"id": 1071,
+		"name": "William Walton",
+		"img": "https://www.listchallenges.com/f/items/7b6df820-f908-4701-bada-8ff84b0241e8.jpg",
+		"dateOfBirth": "1902-03-29"
+	},
+	{
+		"id": 1072,
+		"name": "Carl Nielsen",
+		"img": "https://www.listchallenges.com/f/items/5209e1c6-fa72-40d6-8c6f-624ebbfd2d09.jpg",
+		"dateOfBirth": "1865-06-09"
+	},
+	{
+		"id": 1073,
+		"name": "Hugo Wolf",
+		"img": "https://www.listchallenges.com/f/items/ad35eb1c-4bbb-4a9e-a5d9-87e56512c3ba.jpg",
+		"dateOfBirth": "1860-03-13"
+	},
+	{
+		"id": 1074,
+		"name": "Guillaume Dufay",
+		"img": "https://www.listchallenges.com/f/items/7126eb51-81b1-4e85-8a1d-6c7cc835f886.jpg",
+		"dateOfBirth": "1397-01-01"
+	},
+	{
+		"id": 1075,
+		"name": "Ottorino Respighi",
+		"img": "https://www.listchallenges.com/f/items/d23b68af-edc7-479b-b0f0-8a548b6f3fd0.jpg",
+		"dateOfBirth": "1879-07-09"
+	},
+	{
+		"id": 1076,
+		"name": "Dietrich Buxtehude",
+		"img": "https://www.listchallenges.com/f/items/f13a5cfc-9e25-451f-bfbe-b8060cee967c.jpg",
+		"dateOfBirth": "1637-12-09"
+	},
+	{
+		"id": 1077,
+		"name": "John Dowland",
+		"img": "https://www.listchallenges.com/f/items/6ce99ccc-7bcb-451f-b069-95fc87f6e3de.jpg",
+		"dateOfBirth": "1563-01-01"
+	},
+	{
+		"id": 1078,
+		"name": "Giovanni Battista Pergolesi",
+		"img": "https://www.listchallenges.com/f/items-dl/13a50eb5-87f4-4e86-a8e4-9ba8c05ce4ad.jpg",
+		"dateOfBirth": "1710-01-04"
+	},
+	{
+		"id": 1079,
+		"name": "John Cage",
+		"img": "https://www.listchallenges.com/f/items-dl/3a02d509-9bc6-4f81-a11b-a2a0697f8011.jpg",
+		"dateOfBirth": "1912-09-05"
+	},
+	{
+		"id": 1080,
+		"name": "Heinrich Schütz",
+		"img": "https://www.listchallenges.com/f/items-dl/e0040553-935c-42b7-9f94-f04a75e9f8a2.jpg",
+		"dateOfBirth": "1585-10-08"
+	},
+	{
+		"id": 1081,
+		"name": "Perotin",
+		"img": "https://www.listchallenges.com/f/items/3082a42b-567a-46b3-8b82-cf18327ab0ea.jpg",
+		"dateOfBirth": "1160-01-01"
+	},
+	{
+		"id": 1082,
+		"name": "Giovanni Gabrieli",
+		"img": "https://www.listchallenges.com/f/items/85e12e6d-6e20-421e-8cdc-a44a90c14208.jpg",
+		"dateOfBirth": "1555-01-01"
+	},
+	{
+		"id": 1083,
+		"name": "Francis Poulenc",
+		"img": "https://www.listchallenges.com/f/items/65ad7a09-e699-4b63-8e25-3344c6e47e0c.jpg",
+		"dateOfBirth": "1899-01-07"
+	},
+	{
+		"id": 1084,
+		"name": "Jules Massenet",
+		"img": "https://www.listchallenges.com/f/items/89a90cb7-9500-4e07-ad4d-2e4b5985f263.jpg",
+		"dateOfBirth": "1842-05-12"
+	},
+	{
+		"id": 1085,
+		"name": "Charles Gounod",
+		"img": "https://www.listchallenges.com/f/items/a8fe2998-8313-4ae0-b405-d665408e5b3b.jpg",
+		"dateOfBirth": "1818-06-17"
+	},
+	{
+		"id": 1086,
+		"name": "Vincenzo Bellini",
+		"img": "https://www.listchallenges.com/f/items/05aa28ee-1eb5-4369-9963-916b722f3752.jpg",
+		"dateOfBirth": "1801-11-03"
+	},
+	{
+		"id": 1087,
+		"name": "Alexander Borodin",
+		"img": "https://www.listchallenges.com/f/items/4011ba01-3a60-4aea-9bda-7d3891cd9eaf.jpg",
+		"dateOfBirth": "1833-11-12"
+	},
+	{
+		"id": 1088,
+		"name": "Alban Berg",
+		"img": "https://www.listchallenges.com/f/items/8b68b36b-11d1-4688-b2f7-aaab3602cc9b.jpg",
+		"dateOfBirth": "1885-02-09"
+	},
+	{
+		"id": 1089,
+		"name": "Guillaume De Machaut",
+		"img": "https://www.listchallenges.com/f/items-dl/dcce7a8c-342a-429f-aa53-74c7de7fcf1d.jpg",
+		"dateOfBirth": "1300-01-01"
+	},
+	{
+		"id": 1090,
+		"name": "Philip Glass",
+		"img": "https://www.listchallenges.com/f/items-dl/ce4f4353-2976-4ead-acbf-5be8b265e8e9.jpg",
+		"dateOfBirth": "1937-01-31"
+	},
+	{
+		"id": 1091,
+		"name": "Thomas Tallis",
+		"img": "https://www.listchallenges.com/f/items/ee69442c-b7c6-4f0c-8cbb-2dba63f206e2.jpg",
+		"dateOfBirth": "1505-01-01"
+	},
+	{
+		"id": 1092,
+		"name": "Arcangelo Corelli",
+		"img": "https://www.listchallenges.com/f/items-dl/a807805d-673d-4a25-97a8-ae8c47096220.jpg",
+		"dateOfBirth": "1653-02-17"
+	},
+	{
+		"id": 1093,
+		"name": "Aram Khachaturian",
+		"img": "https://www.listchallenges.com/f/items/e0c1e157-d7c3-4801-bbfc-3da7e2ce082b.jpg",
+		"dateOfBirth": "1903-06-06"
+	},
+	{
+		"id": 1094,
+		"name": "Carl Philipp Emanuel Bach",
+		"img": "https://www.listchallenges.com/f/items-dl/8991315e-6f2e-4efc-8316-fe6c37f2ccfc.jpg",
+		"dateOfBirth": "1714-03-08"
+	},
+	{
+		"id": 1095,
+		"name": "Gaetano Donizetti",
+		"img": "https://www.listchallenges.com/f/items-dl/d3ec130e-acdd-4583-b7d5-91625bf33c7d.jpg",
+		"dateOfBirth": "1797-11-29"
+	},
+	{
+		"id": 1096,
+		"name": "Roland De Lassus",
+		"img": "https://www.listchallenges.com/f/items/1db3a451-2b7e-4db6-84c9-4159d148bc65.jpg",
+		"dateOfBirth": "1532-01-01"
+	},
+	{
+		"id": 1097,
+		"name": "Georg Philipp Telemann",
+		"img": "https://www.listchallenges.com/f/items/8fc168b6-130a-4d67-aff6-0e43ab9af7ae.jpg",
+		"dateOfBirth": "1681-03-14"
+	},
+	{
+		"id": 1098,
+		"name": "Domenico Scarlatti",
+		"img": "https://www.listchallenges.com/f/items/fa363761-1db8-4c52-acf6-a1c770f66f56.jpg",
+		"dateOfBirth": "1685-10-26"
+	},
+	{
+		"id": 1099,
+		"name": "Alexander Nikolayevich Scriabin",
+		"img": "https://www.listchallenges.com/f/items/1e152b88-a572-4bc7-88e9-c6f209e3b1cc.jpg",
+		"dateOfBirth": "1872-01-06"
+	},
+	{
+		"id": 1100,
+		"name": "Cesar Franck",
+		"img": "https://www.listchallenges.com/f/items/f7e14e75-a760-48c6-bc7c-d2dbc9b63c80.jpg",
+		"dateOfBirth": "1822-12-10"
+	}
+]
